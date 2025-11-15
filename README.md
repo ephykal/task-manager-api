@@ -1,4 +1,4 @@
-# 🧠 Task Manager API – Job Assessment Project
+# 🧠 Task Manager API Project
 
 This is a backend RESTful API for managing tasks, built with **Node.js**, **Express**, and **TypeScript**. It was developed as part of a technical assessment and showcases clean architecture, proper validation, in-memory data handling, error management, and good API design practices.
 
